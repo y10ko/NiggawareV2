@@ -1,4 +1,4 @@
---KEYBIND FOR SMOOTHING LOCK IS Q, THIS MAKES STREAMABLE ALOT BETTER!
+-- The keybind is Q for smoothing and dawg if u dont use Q u jus gay
  
 local hotkey = 't' -- DONT CHANGE!
 local mouse = game.Players.LocalPlayer:GetMouse()
